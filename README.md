@@ -34,3 +34,20 @@
 ### En 2014 puso a la venta también el FirePhone, un nuevo smartphone con el que pretendía revolucionar el mercado de las compras en línea, a través del móvil. Consta de 2 GB de RAM y dos pantallas.
 
 ### Jeff Bezos es el accionista mayoritario en el retailer Amazon.com, el periódico The Washington Post y la compañía aeroespacial Blue Origin
+
+# Reconocimiento
+### Fue nombrado Persona del año en la revista Time en 1999.11​ En 2008, fue seleccionado por U.S. News & World Report como uno de los mejores líderes de América. Bezos fue galardonado como Doctor honoris causa de Ciencias y Tecnología en la Universidad Carnegie Mellon en 2008.
+
+### En 2011, The Economist concedió a Jeff Bezos y a Gregg Zehr un premio de innovación por el Amazon Kindle.12​
+
+### En 2012, Bezos fue nombrado «empresario del año» por la revista Fortune.13​ Además, es miembro de Bilderberg Group y asistió a la conferencia Bilderberg en 2011 en St. Moritz, Suiza, y a la conferencia de 2013 en Watford, Hertfordshire, Inglaterra. Fue un miembro del Comité Ejecutivo del Consejo Empresarial en 2011 y 2012.
+
+
+
+### De acuerdo con Forbes, Jeff Bezos fue listado en enero de 2018 como la persona más rica del mundo, con una estimada riqueza neta de 157 000 millones de dólares estadounidenses.15​
+
+### En 2014, fue clasificado como el mejor CEO del mundo por Harvard Business Review.16​ En octubre de 2017, Bezos fue la persona más rica del mundo de acuerdo con Forbes, sobrepasando al cofundador de Microsoft Bill Gates.
+
+### Jeff Bezos también ha figurado en la lista de los 50 mejores líderes del mundo de Fortune durante tres años consecutivos, liderando la lista en 2015. En septiembre de 2016, Bezos fue galardonado con el Premio Heinlein por avances en la Comercialización del Espacio obteniendo 250 000 USD. Bezos donó el dinero del premio a la organización internacional estudiantil Students for the Exploration and Development of Space.17​
+
+### En 2023, Bezos era propietario del yate Abeona.​
