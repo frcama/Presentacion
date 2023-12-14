@@ -42,6 +42,18 @@
 
 ### En 2012, Bezos fue nombrado «empresario del año» por la revista Fortune.13​ Además, es miembro de Bilderberg Group y asistió a la conferencia Bilderberg en 2011 en St. Moritz, Suiza, y a la conferencia de 2013 en Watford, Hertfordshire, Inglaterra. Fue un miembro del Comité Ejecutivo del Consejo Empresarial en 2011 y 2012.
 
+# Riqueza
+| Año|Millones| Año|Millones|
+|2000| 8.050  |2010| 12.600 |
+|2001| 2.000  |2011| 18.900 |
+|2002| 1.500  |2012| 23.200 |
+|2003| 2.500  |2013| 28-900 |
+|2004| 5.100  |2014| 30.500 |
+|2005| 4.800  |2015| 43.800 |
+|2006| 4.300  |2016| 59.200 |
+|2007| 8.700  |2017| 95.800 |
+|2008| 8.200  |2018| 112.000|
+|2009| 10.800 |2019| 180.000|
 
 
 ### De acuerdo con Forbes, Jeff Bezos fue listado en enero de 2018 como la persona más rica del mundo, con una estimada riqueza neta de 157 000 millones de dólares estadounidenses.15​
