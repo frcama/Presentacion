@@ -63,3 +63,5 @@
 ### En 2014, fue clasificado como el mejor CEO del mundo por Harvard Business Review.16​ En octubre de 2017, Bezos fue la persona más rica del mundo de acuerdo con Forbes, sobrepasando al cofundador de Microsoft Bill Gates.
 
 ### Jeff Bezos también ha figurado en la lista de los 50 mejores líderes del mundo de Fortune durante tres años consecutivos, liderando la lista en 2015. En septiembre de 2016, Bezos fue galardonado con el [Premio Heinlein por avances en la Comercialización del Espacio](https://es.wikipedia.org/wiki/Premio_Heinlein_por_avances_en_la_Comercialización_del_Espacio) obteniendo 250 000 USD. Bezos donó el dinero del premio a la organización internacional estudiantil Students for the Exploration and Development of Space. En 2023, Bezos era propietario del yate [Abeona](https://es.wikipedia.org/wiki/Abeona_(yate))​.
+
+![firma](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Jeff_Bezos_signature.svg/175px-Jeff_Bezos_signature.svg.png "firma")
