@@ -64,4 +64,4 @@
 
 ### Jeff Bezos también ha figurado en la lista de los 50 mejores líderes del mundo de Fortune durante tres años consecutivos, liderando la lista en 2015. En septiembre de 2016, Bezos fue galardonado con el [Premio Heinlein por avances en la Comercialización del Espacio](https://es.wikipedia.org/wiki/Premio_Heinlein_por_avances_en_la_Comercialización_del_Espacio) obteniendo 250 000 USD. Bezos donó el dinero del premio a la organización internacional estudiantil Students for the Exploration and Development of Space.17​
 
-### En 2023, Bezos era propietario del yate Abeona.​
+### En 2023, Bezos era propietario del yate [Abeona](https://es.wikipedia.org/wiki/Abeona_(yate))​.
