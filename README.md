@@ -48,20 +48,17 @@
 |2000| 8.050  |2010| 12.600 |                       
 |2001| 2.000  |2011| 18.900 |
 |2002| 1.500  |2012| 23.200 |       
-|2003| 2.500  |2013| 28-900 |       
-|2004| 5.100  |2014| 30.500 |       
-|2005| 4.800  |2015| 43.800 |       
+|2003| 2.500  |2013| 28-900 |            |Imagen1|                                                         
+|2004| 5.100  |2014| 30.500 |            |-------| 
+|2005| 4.800  |2015| 43.800 |            |![Descripción 1](https://forbes.es/wp-content/uploads/2022/11/Captura-de-pantalla-2022-11-16-a-las-15.02.40-1066x675.png "Logo Tilte text ")|
 |2006| 4.300  |2016| 59.200 |                                                                                       
 |2007| 8.700  |2017| 95.800 |
 |2008| 8.200  |2018| 112.000|
 |2009| 10.800 |2019| 180.000|
 
-![alt text](https://forbes.es/wp-content/uploads/2022/11/Captura-de-pantalla-2022-11-16-a-las-15.02.40-1066x675.png "Logo Tilte text ")|
 
 ### De acuerdo con [Forbes](https://es.wikipedia.org/wiki/Forbes), Jeff Bezos fue listado en enero de 2018 como la persona más rica del mundo, con una estimada riqueza neta de 157 000 millones de dólares estadounidenses.15​
 
 ### En 2014, fue clasificado como el mejor CEO del mundo por Harvard Business Review.16​ En octubre de 2017, Bezos fue la persona más rica del mundo de acuerdo con Forbes, sobrepasando al cofundador de Microsoft Bill Gates.
 
-### Jeff Bezos también ha figurado en la lista de los 50 mejores líderes del mundo de Fortune durante tres años consecutivos, liderando la lista en 2015. En septiembre de 2016, Bezos fue galardonado con el [Premio Heinlein por avances en la Comercialización del Espacio](https://es.wikipedia.org/wiki/Premio_Heinlein_por_avances_en_la_Comercialización_del_Espacio) obteniendo 250 000 USD. Bezos donó el dinero del premio a la organización internacional estudiantil Students for the Exploration and Development of Space.17​
-
-### En 2023, Bezos era propietario del yate [Abeona](https://es.wikipedia.org/wiki/Abeona_(yate))​.
+### Jeff Bezos también ha figurado en la lista de los 50 mejores líderes del mundo de Fortune durante tres años consecutivos, liderando la lista en 2015. En septiembre de 2016, Bezos fue galardonado con el [Premio Heinlein por avances en la Comercialización del Espacio](https://es.wikipedia.org/wiki/Premio_Heinlein_por_avances_en_la_Comercialización_del_Espacio) obteniendo 250 000 USD. Bezos donó el dinero del premio a la organización internacional estudiantil Students for the Exploration and Development of Space. En 2023, Bezos era propietario del yate [Abeona](https://es.wikipedia.org/wiki/Abeona_(yate))​.
