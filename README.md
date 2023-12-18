@@ -50,7 +50,7 @@
 |2002| 1.500  |2012| 23.200 |       
 |2003| 2.500  |2013| 28-900 |       
 |2004| 5.100  |2014| 30.500 |       
-|2005| 4.800  |2015| 43.800 |       ![alt text](https://forbes.es/wp-content/uploads/2022/11/Captura-de-pantalla-2022-11-16-a-las-15.02.40-1066x675.png "Logo Tilte text 1")|
+|2005| 4.800  |2015| 43.800 |       ![alt text](https://forbes.es/wp-content/uploads/2022/11/Captura-de-pantalla-2022-11-16-a-las-15.02.40-1066x675.png "Logo Tilte text 2")|
 |2006| 4.300  |2016| 59.200 |                                                                                       
 |2007| 8.700  |2017| 95.800 |
 |2008| 8.200  |2018| 112.000|
