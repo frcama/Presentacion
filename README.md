@@ -44,19 +44,18 @@
 
 # Riqueza
 | Año|Millones| Año|Millones|                                                                                                           
-|----|--------|----|--------|
+|----|--------|----|--------|   
 |2000| 8.050  |2010| 12.600 |                       
 |2001| 2.000  |2011| 18.900 |
-|2002| 1.500  |2012| 23.200 |
-|2003| 2.500  |2013| 28-900 |
-|2004| 5.100  |2014| 30.500 |
-|2005| 4.800  |2015| 43.800 |   
+|2002| 1.500  |2012| 23.200 |       
+|2003| 2.500  |2013| 28-900 |       |Estadistica|
+|2004| 5.100  |2014| 30.500 |       |-----------|
+|2005| 4.800  |2015| 43.800 |       |![alt text](https://forbes.es/wp-content/uploads/2022/11/Captura-de-pantalla-2022-11-16-a-las-15.02.40-1066x675.png "Logo Tilte text 1")|
 |2006| 4.300  |2016| 59.200 |                                                                                       
 |2007| 8.700  |2017| 95.800 |
 |2008| 8.200  |2018| 112.000|
 |2009| 10.800 |2019| 180.000|
 
-![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Net_worth_of_Jeff_Bezos_from_1999_to_2018.png/220px-Net_worth_of_Jeff_Bezos_from_1999_to_2018.png "Logo Title Text 1")
 
 ### De acuerdo con [Forbes](https://es.wikipedia.org/wiki/Forbes), Jeff Bezos fue listado en enero de 2018 como la persona más rica del mundo, con una estimada riqueza neta de 157 000 millones de dólares estadounidenses.15​
 
