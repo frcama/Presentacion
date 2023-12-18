@@ -1,5 +1,5 @@
 # Jeff El Besos
-### Jeffrey Preston Bezos (Albuquerque, Nuevo México; 12 de enero de 1964) es un empresario, ingeniero y magnate estadounidense, fundador, presidente ejecutivo y exdirector ejecutivo de la empresa de venta en línea Amazon de la cual posee el 7%.
+### Jeffrey Preston Bezos (Albuquerque, Nuevo México; 12 de enero de 1964) es un empresario, ingeniero y magnate estadounidense, fundador, presidente ejecutivo y exdirector ejecutivo de la empresa de venta en línea [Amazon](https://es.wikipedia.org/wiki/Amazon) de la cual posee el 7%.
 
 ### En 2015 fue el quinto hombre más rico del mundo, y en 2017 alcanzó el primer puesto de la lista Forbes.4​ Desde mediados de 2018 hasta fines de 2019, se mantuvo como la segunda persona más rica del mundo,5​ siendo la primera persona en superar los 100 000 millones de dólares en la lista Forbes de los multimillonarios del mundo.​ En 2019, su fortuna se aproximó a la cifra de los 108 000 millones, siendo así el empresario milmillonario que más había incrementado su fortuna. El 2 de febrero de 2021, Bezos anunció que dejaría el cargo como director ejecutivo de Amazon, para ser reemplazado por Andy Jassy, el jefe de la división de computación en la nube de Amazon, y Bezos fue nombrado presidente ejecutivo, desde entonces Bezos dejó de ser la persona más rica del mundo, pues fue superado por el francés Bernard Arnault. En julio de 2021 Jeff Bezos viajó al espacio junto a su hermano a bordo de su propio vehículo, el Blue Origin New Shepard, en el vuelo suborbital NS-16.​
 
@@ -43,15 +43,15 @@
 ### En 2012, Bezos fue nombrado «empresario del año» por la revista Fortune.13​ Además, es miembro de Bilderberg Group y asistió a la conferencia Bilderberg en 2011 en St. Moritz, Suiza, y a la conferencia de 2013 en Watford, Hertfordshire, Inglaterra. Fue un miembro del Comité Ejecutivo del Consejo Empresarial en 2011 y 2012.
 
 # Riqueza
-| Año|Millones| Año|Millones|
+| Año|Millones| Año|Millones|                                                                                                           
 |----|--------|----|--------|
 |2000| 8.050  |2010| 12.600 |                       
 |2001| 2.000  |2011| 18.900 |
 |2002| 1.500  |2012| 23.200 |
 |2003| 2.500  |2013| 28-900 |
 |2004| 5.100  |2014| 30.500 |
-|2005| 4.800  |2015| 43.800 |
-|2006| 4.300  |2016| 59.200 |
+|2005| 4.800  |2015| 43.800 |   
+|2006| 4.300  |2016| 59.200 |                                                                                       
 |2007| 8.700  |2017| 95.800 |
 |2008| 8.200  |2018| 112.000|
 |2009| 10.800 |2019| 180.000|
